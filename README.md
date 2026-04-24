@@ -19,4 +19,11 @@ Resolver diferentes ejercicios de lógica en lenguaje ARM (IF-ELSE, FOR, WHILE, 
  - Aprender el uso de la sintáxis de CPUlator, herramienta que se usó para la elaboración del taller.
 
 # Conclusiones
+La realización de estos ejercicios de lógica en lenguaje ARM permite concluir que la programación de bajo nivel es el puente fundamental entre la lógica algorítmica y la ejecución física del procesador.
+ - Se comprendió que un consicional o un ciclo no son magia, sino simples comparaciones y saltos de memoria en el procesador.
 
+ - El uso obligatorio de r0 enseñó a ser mucho más ordenados y eficientes con los datos, ya que en ensamblador cada movimiento cuenta.
+
+ - El simulador CPULator fue la herramienta clave para perderle el miedo al código y entender los errores viendo los registros cambiar en tiempo real.
+
+ - Se demostró que problemas complejos (como el Factorial) se pueden resolver usando solo las instrucciones más básicas del hardware.
